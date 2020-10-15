@@ -1,5 +1,5 @@
 FROM '123majumundur/php-7.1-nginx:cicd'
-MAINTAINER Fahmi <fahmifathurr.20@gmail.com>
+MAINTAINER khayrussyifa <khayrussyifaap@gmail.com>
 
 RUN composer global require hirak/prestissimo
 
